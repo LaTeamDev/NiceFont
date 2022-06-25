@@ -1,0 +1,39 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		" !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+	],
+	"glyph-color": "white",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 7,
+	"glyph-height": 11,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 3,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 0,
+	"glyph-base-x": 0,
+	"glyph-baseline": 9,
+	"glyph-spacing": 0,
+	"font-is-mono": true,
+	"font-em-square": 1024,
+	"font-line-gap": 0,
+	"font-ascend": 768,
+	"font-descend": -256,
+	"font-px-size": 128,
+	"font-name": "NiceFont",
+	"font-author": "VanderCat",
+	"font-copy": "(c) 2022 LaTeam Dev",
+	"font-version": "1.0",
+	"font-desc": "",
+	"font-license": "MIT",
+	"font-license-url": "https://github.com/LaTeamDev/NiceFont/blob/master/LICENSE.MD",
+	"font-sample-text": "The NiceFont is really nice ;)",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789"
+	]
+}
